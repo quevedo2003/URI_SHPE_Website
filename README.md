@@ -4,4 +4,4 @@ This is the University of Rhode Island's SHPE chapter's website. The goal of thi
 I will plan on having documentation for the repo and how to manage the website here.
 
 
-- by Isiah Peralta and David Quevedo
+- by Isaiah Peralta and David Quevedo
